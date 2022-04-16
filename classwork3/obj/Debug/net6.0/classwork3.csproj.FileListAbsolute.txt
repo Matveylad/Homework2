@@ -1,0 +1,15 @@
+C:\Users\zidan\Desktop\учеба\home\classwork3\obj\Debug\net6.0\classwork3.csproj.AssemblyReference.cache
+C:\Users\zidan\Desktop\учеба\home\classwork3\obj\Debug\net6.0\classwork3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zidan\Desktop\учеба\home\classwork3\obj\Debug\net6.0\classwork3.AssemblyInfoInputs.cache
+C:\Users\zidan\Desktop\учеба\home\classwork3\obj\Debug\net6.0\classwork3.AssemblyInfo.cs
+C:\Users\zidan\Desktop\учеба\home\classwork3\obj\Debug\net6.0\classwork3.csproj.CoreCompileInputs.cache
+C:\Users\zidan\Desktop\учеба\home\classwork3\bin\Debug\net6.0\classwork3.exe
+C:\Users\zidan\Desktop\учеба\home\classwork3\bin\Debug\net6.0\classwork3.deps.json
+C:\Users\zidan\Desktop\учеба\home\classwork3\bin\Debug\net6.0\classwork3.runtimeconfig.json
+C:\Users\zidan\Desktop\учеба\home\classwork3\bin\Debug\net6.0\classwork3.dll
+C:\Users\zidan\Desktop\учеба\home\classwork3\bin\Debug\net6.0\classwork3.pdb
+C:\Users\zidan\Desktop\учеба\home\classwork3\obj\Debug\net6.0\classwork3.dll
+C:\Users\zidan\Desktop\учеба\home\classwork3\obj\Debug\net6.0\refint\classwork3.dll
+C:\Users\zidan\Desktop\учеба\home\classwork3\obj\Debug\net6.0\classwork3.pdb
+C:\Users\zidan\Desktop\учеба\home\classwork3\obj\Debug\net6.0\classwork3.genruntimeconfig.cache
+C:\Users\zidan\Desktop\учеба\home\classwork3\obj\Debug\net6.0\ref\classwork3.dll
