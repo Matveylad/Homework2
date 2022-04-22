@@ -3,10 +3,11 @@
 // 456 -> 46
 // 782 -> 72
 // 918 -> 98
+
 //int a = 456;
-//int b = a%10;
-//int c = a/100;
-//Console.WriteLine($"{c}{b}");
+//int a1 = a%10;
+//int a2 = a/100;
+//Console.WriteLine($"{a2}{a1}");
 
 
 
@@ -27,5 +28,3 @@
 //else Console.WriteLine($"У числа {Number} нет третьей цифры");
 
 //Console.WriteLine();
-
-
